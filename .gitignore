@@ -1,32 +1,22 @@
-# Prerequisites
-*.d
+*
+!*/
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+!.gitignore
+!RecreateProject.tcl
+!xc7a50t_AF.srcs/sources_1/imports/sources_1/imports/Project/keys.v
+!xc7a50t_AF.srcs/sources_1/bd/microblaze/hdl/microblaze_wrapper.v
+!xc7a50t_AF.srcs/sources_1/imports/sources_1/imports/Project/FPGA/ADS8861/ADS8681.srcs/sources_1/new/ADS886X.sv
+!xc7a50t_AF.srcs/sources_1/imports/sources_1/imports/ADPLL/CicDownSample.sv
+!xc7a50t_AF.srcs/sources_1/imports/sources_1/new/FreqMeasure.sv
+!xc7a50t_AF.srcs/sources_1/imports/sources_1/imports/Project/dac8811.sv
+!xc7a50t_AF.srcs/sources_1/new/top.sv
+!xc7a50t_AF.srcs/sources_1/bd/microblaze/ip/microblaze_mig_7series_0_0/mig_a.prj
+!xc7a50t_AF.srcs/sources_1/bd/microblaze/ip/microblaze_mig_7series_0_1/mig_b.prj
+!xc7a50t_AF.srcs/sources_1/bd/microblaze/ip/microblaze_mig_7series_1_0/mig_a.prj
+!xc7a50t_AF.srcs/sources_1/bd/microblaze/ip/microblaze_mig_7series_0_0/mig_b.prj
+!xc7a50t_AF.srcs/sources_1/imports/HDL_Module/IIR.sv
+!xc7a50t_AF.srcs/constrs_1/imports/ll7a35ek_verB_boarddefs/bs.xdc
+!xc7a50t_AF.srcs/constrs_1/imports/ll7a35ek_verB_boarddefs/ll7a35ek_master.xdc
+!xc7a50t_AF.sdk/AF/src/*
+!xc7a50t_AF.sdk/top_hw_platform_0/*
+!xc7a50t_AF.sdk/top.hdf
