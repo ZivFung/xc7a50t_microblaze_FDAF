@@ -2,6 +2,7 @@
 !*/
 
 !.gitignore
+!README.md
 !RecreateProject.tcl
 !xc7a50t_AF.srcs/sources_1/imports/sources_1/imports/Project/keys.v
 !xc7a50t_AF.srcs/sources_1/bd/microblaze/hdl/microblaze_wrapper.v
